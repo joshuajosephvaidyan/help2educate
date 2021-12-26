@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/help2educate/static/css/main.56e6221f.css",
+    "main.js": "/help2educate/static/js/main.739c4e36.js",
+    "static/js/787.9db59f48.chunk.js": "/help2educate/static/js/787.9db59f48.chunk.js",
+    "static/media/love.png": "/help2educate/static/media/love.6a033579ba9a1eb67f2e.png",
+    "static/media/help.png": "/help2educate/static/media/help.ad097d1b3124e38cb1b4.png",
+    "static/media/game.png": "/help2educate/static/media/game.83a98a4890dfc30b7a9e.png",
+    "static/media/pencils.png": "/help2educate/static/media/pencils.aa8bd2e31fbb7a4c8b0a.png",
+    "static/media/dob.png": "/help2educate/static/media/dob.8596b1430c60c5bb9fe6.png",
+    "static/media/post.png": "/help2educate/static/media/post.4703005c06118059c5e6.png",
+    "static/media/find.png": "/help2educate/static/media/find.5ce7b74ef003fe95d6a3.png",
+    "static/media/friends.png": "/help2educate/static/media/friends.c372bd8c9261b1ee7e17.png",
+    "index.html": "/help2educate/index.html",
+    "main.56e6221f.css.map": "/help2educate/static/css/main.56e6221f.css.map",
+    "main.739c4e36.js.map": "/help2educate/static/js/main.739c4e36.js.map",
+    "787.9db59f48.chunk.js.map": "/help2educate/static/js/787.9db59f48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.739c4e36.js"
+  ]
+}
